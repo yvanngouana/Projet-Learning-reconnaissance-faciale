@@ -1,0 +1,40 @@
+{
+    "num_classes": 19,
+    "input_shape": [
+        160,
+        160,
+        3
+    ],
+    "class_names": [
+        "ABONDO",
+        "BEINDI",
+        "DEDIM",
+        "DJOKNONE",
+        "EKWANE",
+        "EWOUDI",
+        "KAMATE",
+        "KIYINDOU",
+        "KOUMETIO",
+        "MAMA",
+        "MATSING",
+        "MESSINA",
+        "MODJARBA",
+        "NGOUANA",
+        "OBAMA",
+        "OTABELA",
+        "SCHOUAME",
+        "TCHUIDJANG",
+        "WAMBE"
+    ],
+    "test_accuracy": 0.5769230723381042,
+    "test_loss": 1.23069429397583,
+    "total_images": 345,
+    "train_images": 241,
+    "val_images": 52,
+    "test_images": 52,
+    "batch_size": 32,
+    "epochs_phase1": 20,
+    "epochs_phase2": 30,
+    "best_train_accuracy": 0.7136929631233215,
+    "best_val_accuracy": 0.7115384340286255
+}
