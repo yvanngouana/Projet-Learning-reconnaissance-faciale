@@ -497,7 +497,7 @@ Ce projet est réalisé dans le cadre du cours de Deep Learning - MDSMS1.
 
 ## 🙏 Remerciements
 
-- Professeur et équipe pédagogique de MDSMS1
+- Professeur et équipe pédagogique de L'ISSEA
 - Tous les étudiants ayant participé à la collecte de données
 - Communauté TensorFlow et Keras
 
