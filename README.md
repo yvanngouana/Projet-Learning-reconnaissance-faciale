@@ -7,7 +7,7 @@
 
 ### Membres du groupe
 - **NGOUANA FAUMETE Etienne**
-- **BEINDI MEMANG HOUMBI**
+- **BEINDI FÉLIX HOUMBI**
 - **SCHOUAME Jean Pierre**
 - **DEDIM GUELBE APPOLINAIRE**
 
@@ -476,7 +476,7 @@ Ce projet a été réalisé dans le cadre du cours de Deep Learning - MDSMS1.
 ### Répartition des tâches
 
 - **NGOUANA FAUMETE Etienne:** Configuration, entraînement, documentation technique
-- **BEINDI MEMANG HOUMBI:** Pré-traitement, détection de visages
+- **BEINDI FÉLIX HOUMBI:** Pré-traitement, détection de visages
 - **SCHOUAME Jean Pierre:** Organisation des données, visualisations
 - **DEDIM GUELBE APPOLINAIRE:** Script d'inférence, tests, documentation utilisateur
 
